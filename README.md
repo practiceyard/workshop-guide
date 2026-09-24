@@ -1,6 +1,12 @@
 # workshop-guide
 Guide for organizing an impactful workshop
 
+## Sections
+1. [Introduction](01-Intro/Introduction.md)
+1. [Clearly define your objectives](02-LearningObjectives/LearningObjectives.md)
+1. [Architect your content deliberately](03-ContentArchitecture/ContentArchitecture.md)
+1. [Consciously choose your environment](04-Environment/Environment.md)
+1. [Leverage your team](05-Delegation/Delegation.md)
 
 ## License
 
