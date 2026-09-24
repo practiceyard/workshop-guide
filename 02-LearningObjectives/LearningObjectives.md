@@ -1,5 +1,5 @@
 # Learning Objectives
-*Clearly communicated clarity aligns expectations*the 
+*Clearly communicated clarity aligns expectations*
 
 Having clearly defined learning objectives for your workshop will make a big impact.  Not only will it help guide the decisions you need to make, it will align both participant expectations and the work your team does.  If you're reusing content, you'll want to first identify the objectives embedded in the content, then review and revise based on what you're looking to accomplish.  If you're creating your own, you'll start with some, and be ready to revise as things progress.  Either way, you'll want to write them down. The level of detail can vary, as this is about clarity in decision making, not creating an auditable document. 
 
